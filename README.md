@@ -1,4 +1,4 @@
-# 🎓 TemanBelajar API
+# 📚 Comic Library API
 
 ![NodeJS](https://img.shields.io/badge/Node.js-v20.x-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-v5.x-000000?style=flat-square&logo=express&logoColor=white)
